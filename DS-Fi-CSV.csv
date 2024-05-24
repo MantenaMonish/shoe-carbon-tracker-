@@ -1,0 +1,201 @@
+Shoe_ID,Shoe_Type,Model,Materials,Carbon_Footprint (Total CO2e in kg),Recyclability,End_of_life_disposal_options
+M1,Children,Size 35,"Bovine hides (chrome tanned leather), acrylonite butadiene-styrene, TPU",4.05,Yes,Recyclable
+M2,Children,Size 32,"Bovine hides (chrome tanned leather), acrylonite butadiene-styrene, HDPE",3.1,Yes,Recyclable
+M3,Children,Size 32,"Bovine hides (chrome tanned leather), acrylonite butadiene-styrene, TPU",7.14,Yes,Recyclable
+M4,Women,Size 37,"Chrome-tanned bovine leather, acrylonite butadiene-styrene, natural rubber",13.865,Yes,Recyclable
+M5,Outdoor,Size 42,"Chrome-tanned bovine leather, metals (steel and copper), PVC",12.39,Partially,Recyclable
+M6,Children,Size 32,"Cotton thread, acrylonite butadiene-styrene, PVC",4.165,Yes,Recyclable
+M7,Outdoor,Size 42,"Chrome-tanned bovine leather, polyester, synthetic rubber",13.05,Partially,Recyclable
+M8,Men,Size 45,"Full-grain leather, EVA foam, rubber soles",9.5,Yes,Recyclable
+M9,Women,Size 39,"Vegan leather, TPR soles, and recycled PET fabric",6.8,Yes,Recyclable
+M10,Men,Size 44,"Suede, cotton, rubber",5.3,Yes,Recyclable
+M11,Old Age,Size 41,"Memory foam, polyurethane, rubber",4.9,Yes,Recyclable
+M12,Kids,Size 30,"Vegan leather, cotton, rubber soles",3.6,Yes,Recyclable
+M13,Men,Size 43,"Leather, wool, recycled rubber",7.1,Partially,Recyclable
+M14,Women,Size 38,"Textile, cork, TPR",4.4,Yes,"Compostable, Recyclable"
+M15,Men,Size 42,"Hemp, natural rubber, jute",3.5,Yes,Compostable
+M16,Old Age,Size 40,"Faux suede, breathable mesh, foam",3.7,Yes,Recyclable
+M17,Men,Size 43,"Leather, recycled PET fabric, TPR soles",7.8,Yes,Recyclable
+M18,Women,Size 36,"Suede, TPR soles, recycled textile",5.4,Yes,Recyclable
+M19,Kids,Size 28,"Mesh, synthetic leather, rubber soles",2.9,Yes,Recyclable
+M20,Old Age,Size 38,"Cotton, rubber soles, foam",3.8,Yes,Recyclable
+M21,Men,Size 41,"Wool, natural rubber, recycled polyester",6.2,Yes,Recyclable
+M22,Women,Size 35,"Vegan leather, cork, EVA soles",4.5,Yes,"Compostable, Recyclable"
+M23,Kids,Size 27,"Canvas, synthetic rubber, recycled cotton",2.5,Yes,Recyclable
+M24,Men,Size 42,"Full-grain leather, foam, natural rubber",8.7,Yes,Recyclable
+M25,Women,Size 40,"Textile, jute, natural rubber",5.9,Yes,Compostable
+M26,Old Age,Size 39,"Wool, synthetic rubber, cotton",3.4,Yes,Recyclable
+M27,Men,Size 44,"Leather, recycled rubber, EVA foam",8.2,Partially,Recyclable
+M28,Women,Size 38,"Suede, polyester, thermoplastic elastomers",4.1,Yes,Recyclable
+M29,Kids,Size 30,"Vegan leather, TPR soles, recycled PET fabric",2.3,Yes,Recyclable
+M30,Old Age,Size 37,"Breathable mesh, memory foam, rubber",4,Yes,Recyclable
+M31,Men,Size 43,"Suede, EVA foam, TPR soles",7,Yes,Recyclable
+M32,Women,Size 37,"Vegan leather, jute, rubber soles",5,Yes,Compostable
+M33,Kids,Size 29,"Cotton, synthetic rubber, recycled leather",3.2,Yes,Recyclable
+M34,Old Age,Size 38,"Leather, wool, TPR soles",4.3,Partially,Recyclable
+M35,Men,Size 44,"Leather, rubber soles, recycled polyester",7.5,Yes,Recyclable
+M36,Women,Size 39,"Textile, jute, cork",4.6,Yes,Compostable
+M37,Kids,Size 31,"Cotton, synthetic rubber, recycled leather",2.2,Yes,Recyclable
+M38,Old Age,Size 39,"Mesh, memory foam, polyurethane soles",4.3,Yes,Recyclable
+M39,Men,Size 42,"Vegan leather, cork, EVA foam",6.8,Yes,Recyclable
+M40,Women,Size 37,"Suede, TPR soles, recycled PET fabric",5.3,Yes,Recyclable
+M41,Kids,Size 28,"Canvas, recycled rubber, PET fabric",2.4,Yes,Recyclable
+M42,Old Age,Size 37,"Wool, EVA foam, natural rubber",3.8,Yes,"Compostable, Recyclable"
+M43,Men,Size 44,"Recycled leather, TPR soles, polyester",7.2,Yes,Recyclable
+M44,Women,Size 38,"Vegan leather, EVA foam, cotton",4.7,Yes,Recyclable
+M45,Kids,Size 29,"Cotton, recycled rubber, natural rubber",2.5,Yes,Recyclable
+M46,Old Age,Size 38,"Leather, jute, rubber",4.1,Partially,Compostable
+M47,Men,Size 43,"Mesh, polyurethane, recycled rubber",6.3,Yes,Recyclable
+M48,Women,Size 40,"Synthetic leather, TPR soles, cotton",5,Yes,Recyclable
+M49,Kids,Size 30,"Cotton, recycled PET fabric, TPR soles",2.9,Yes,Recyclable
+M50,Old Age,Size 37,"Suede, memory foam, natural rubber",4,Yes,Recyclable
+M51,Men,Size 42,"Leather, synthetic rubber, recycled PET",7.9,Partially,Recyclable
+M52,Women,Size 37,"Textile, recycled polyester, EVA foam",4.3,Yes,Recyclable
+M53,Kids,Size 29,"Canvas, synthetic leather, recycled PET fabric",2.7,Yes,Recyclable
+M54,Old Age,Size 38,"Breathable mesh, EVA foam, natural rubber",3.6,Yes,Recyclable
+M55,Men,Size 43,"Full-grain leather, EVA foam, recycled rubber",7.4,Yes,Recyclable
+M56,Women,Size 37,"Suede, jute, cork",4.7,Yes,Compostable
+M57,Kids,Size 29,"Mesh, cotton, rubber soles",2.3,Yes,Recyclable
+M58,Old Age,Size 38,"Breathable mesh, memory foam, rubber",4,Yes,Recyclable
+M59,Men,Size 42,"Synthetic leather, polyester, rubber",6.8,Yes,Recyclable
+M60,Women,Size 38,"Vegan leather, TPR soles, recycled PET fabric",5.2,Yes,Recyclable
+M61,Kids,Size 30,"Canvas, recycled rubber, jute",2.6,Yes,Recyclable
+M62,Old Age,Size 39,"Wool, natural rubber, memory foam",3.9,Yes,Recyclable
+M63,Men,Size 44,"Leather, EVA foam, jute",7.3,Yes,Compostable
+M64,Women,Size 36,"Textile, recycled PET fabric, cork",4.1,Yes,Recyclable
+M65,Kids,Size 28,"Synthetic leather, cotton, recycled rubber",2.4,Yes,Recyclable
+M66,Old Age,Size 37,"Faux suede, recycled rubber, foam",3.7,Yes,Recyclable
+M67,Men,Size 43,"Suede, natural rubber, EVA foam",6.5,Yes,Compostable
+M68,Women,Size 39,"Cotton, synthetic leather, TPR soles",4.5,Yes,Recyclable
+M69,Kids,Size 30,"Cotton, recycled rubber, polyester",2.8,Yes,Recyclable
+M70,Old Age,Size 38,"Leather, mesh, recycled PET fabric",3.6,Yes,Recyclable
+M71,Men,Size 42,"Leather, recycled PET fabric, rubber soles",7.1,Partially,Recyclable
+M72,Women,Size 37,"Suede, EVA foam, rubber",4.2,Yes,Recyclable
+M73,Kids,Size 29,"Mesh, recycled polyester, synthetic rubber",2.5,Yes,Recyclable
+M74,Old Age,Size 37,"Suede, memory foam, recycled rubber",3.8,Yes,Recyclable
+M75,Men,Size 45,"Leather, synthetic rubber, recycled PET",7.9,Partially,Recyclable
+M76,Women,Size 36,"Suede, TPR soles, recycled polyester",4.3,Yes,Recyclable
+M77,Kids,Size 27,"Canvas, rubber, recycled cotton",2.4,Yes,Recyclable
+M78,Old Age,Size 38,"Leather, wool, rubber",3.8,Partially,Recyclable
+M79,Men,Size 43,"Synthetic leather, EVA foam, recycled PET",6.6,Yes,Recyclable
+M80,Women,Size 38,"Vegan leather, recycled rubber, jute",5.1,Yes,Compostable
+M81,Kids,Size 30,"Cotton, recycled PET, rubber soles",2.3,Yes,Recyclable
+M82,Old Age,Size 37,"Faux suede, memory foam, natural rubber",3.9,Yes,Recyclable
+M83,Men,Size 44,"Leather, recycled PET, EVA foam",7.2,Yes,Recyclable
+M84,Women,Size 39,"Textile, jute, recycled PET",4.5,Yes,Recyclable
+M85,Kids,Size 28,"Mesh, synthetic rubber, recycled leather",2.6,Yes,Recyclable
+M86,Old Age,Size 39,"Mesh, wool, recycled PET fabric",3.7,Yes,Recyclable
+M87,Men,Size 43,"Leather, natural rubber, jute",6.8,Yes,Compostable
+M88,Women,Size 37,"Cotton, recycled PET fabric, TPR",4.2,Yes,Recyclable
+M89,Kids,Size 29,"Canvas, cotton, synthetic rubber",2.3,Yes,Recyclable
+M90,Old Age,Size 37,"Leather, jute, foam",3.6,Yes,Recyclable
+M91,Men,Size 44,"Synthetic leather, cotton, EVA foam",7.3,Partially,Recyclable
+M92,Women,Size 37,"Faux suede, EVA foam, recycled rubber",4.4,Yes,Recyclable
+M93,Kids,Size 28,"Cotton, recycled rubber, polyester",2.6,Yes,Recyclable
+M94,Old Age,Size 38,"Faux suede, natural rubber, recycled leather",3.8,Yes,Recyclable
+M95,Men,Size 45,"Leather, TPR soles, cotton",7.6,Yes,Recyclable
+M96,Women,Size 38,"Vegan leather, jute, recycled rubber",4.4,Yes,Compostable
+M97,Kids,Size 29,"Mesh, cotton, EVA foam",2.5,Yes,Recyclable
+M98,Old Age,Size 37,"Leather, mesh, natural rubber",3.9,Yes,Recyclable
+M99,Men,Size 43,"Full-grain leather, cork, recycled PET fabric",6.5,Yes,Recyclable
+M100,Women,Size 39,"Suede, jute, natural rubber",5,Yes,Compostable
+M101,Kids,Size 30,"Canvas, recycled rubber, polyester",2.3,Yes,Recyclable
+M102,Old Age,Size 38,"Faux leather, EVA foam, recycled PET",3.7,Yes,Recyclable
+M103,Men,Size 44,"Leather, cotton, TPR soles",7.8,Partially,Recyclable
+M104,Women,Size 36,"Synthetic leather, EVA foam, recycled polyester",4.3,Yes,Recyclable
+M105,Kids,Size 27,"Cotton, recycled leather, rubber soles",2.2,Yes,Recyclable
+M106,Old Age,Size 39,"Wool, EVA foam, recycled rubber",3.8,Yes,Recyclable
+M107,Men,Size 42,"Vegan leather, rubber, recycled PET fabric",6.9,Yes,Recyclable
+M108,Women,Size 37,"Mesh, recycled rubber, jute",4.5,Yes,Recyclable
+M109,Kids,Size 29,"Canvas, recycled PET, natural rubber",2.4,Yes,Recyclable
+M110,Old Age,Size 38,"Leather, jute, recycled polyester",3.6,Partially,Recyclable
+M111,Men,Size 44,"Suede, jute, EVA foam",7.2,Yes,Compostable
+M112,Women,Size 39,"Cotton, EVA foam, recycled polyester",4.3,Yes,Recyclable
+M113,Kids,Size 30,"Cotton, recycled rubber, cork",2.6,Yes,Recyclable
+M114,Old Age,Size 37,"Faux suede, natural rubber, recycled PET",3.8,Yes,Recyclable
+M115,Men,Size 42,"Full-grain leather, cork, EVA foam",6.7,Yes,Recyclable
+M116,Women,Size 37,"Suede, rubber, recycled PET",4,Yes,Recyclable
+M117,Kids,Size 30,"Mesh, recycled polyester, natural rubber",2.3,Yes,Recyclable
+M118,Old Age,Size 38,"Leather, memory foam, rubber",3.9,Yes,Recyclable
+M119,Men,Size 43,"Synthetic leather, EVA foam, recycled PET",7,Yes,Recyclable
+M120,Women,Size 39,"Vegan leather, EVA foam, recycled PET",4.3,Yes,Recyclable
+M121,Kids,Size 29,"Cotton, recycled rubber, EVA foam",2.4,Yes,Recyclable
+M122,Old Age,Size 37,"Wool, natural rubber, recycled PET",3.7,Yes,Recyclable
+M123,Men,Size 44,"Leather, cotton, natural rubber",7.6,Yes,Recyclable
+M124,Women,Size 36,"Cotton, recycled PET, EVA foam",4.2,Yes,Recyclable
+M125,Kids,Size 28,"Canvas, recycled PET, synthetic rubber",2.2,Yes,Recyclable
+M126,Old Age,Size 39,"Leather, recycled rubber, EVA foam",3.9,Yes,Recyclable
+M127,Men,Size 42,"Vegan leather, recycled PET, jute",6.8,Yes,Compostable
+M128,Women,Size 37,"Suede, cotton, recycled rubber",4.3,Yes,Recyclable
+M129,Kids,Size 30,"Mesh, recycled leather, EVA foam",2.6,Yes,Recyclable
+M130,Old Age,Size 37,"Faux suede, EVA foam, rubber",3.6,Yes,Recyclable
+M131,Men,Size 45,"Leather, recycled PET, rubber soles",7.4,Partially,Recyclable
+M132,Women,Size 38,"Synthetic leather, EVA foam, recycled PET",4.1,Yes,Recyclable
+M133,Kids,Size 27,"Cotton, recycled PET, EVA foam",2.3,Yes,Recyclable
+M134,Old Age,Size 39,"Faux leather, natural rubber, recycled PET",3.8,Yes,Recyclable
+M135,Men,Size 43,"Leather, cork, EVA foam",7.1,Yes,Recyclable
+M136,Women,Size 37,"Suede, recycled rubber, cotton",4.2,Yes,Recyclable
+M137,Kids,Size 30,"Mesh, EVA foam, recycled rubber",2.3,Yes,Recyclable
+M138,Old Age,Size 38,"Leather, wool, natural rubber",3.8,Yes,Recyclable
+M139,Men,Size 44,"Full-grain leather, EVA foam, recycled PET",7.7,Yes,Recyclable
+M140,Women,Size 39,"Vegan leather, jute, natural rubber",4.3,Yes,Compostable
+M141,Kids,Size 29,"Cotton, recycled PET, rubber soles",2.4,Yes,Recyclable
+M142,Old Age,Size 37,"Faux leather, memory foam, EVA foam",3.7,Yes,Recyclable
+M143,Men,Size 45,"Synthetic leather, EVA foam, recycled rubber",7.5,Yes,Recyclable
+M144,Women,Size 36,"Mesh, recycled PET, cotton",4.4,Yes,Recyclable
+M145,Kids,Size 28,"Cotton, recycled rubber, polyester",2.2,Yes,Recyclable
+M146,Old Age,Size 39,"Wool, recycled PET, EVA foam",3.6,Yes,Recyclable
+M147,Men,Size 43,"Vegan leather, recycled PET, TPR soles",6.9,Yes,Recyclable
+M148,Women,Size 38,"Cotton, recycled PET, cork",4.3,Yes,Recyclable
+M149,Kids,Size 30,"Canvas, EVA foam, recycled rubber",2.5,Yes,Recyclable
+M150,Old Age,Size 37,"Faux suede, memory foam, natural rubber",3.8,Yes,Recyclable
+M151,Men,Size 44,"Leather, EVA foam, rubber",7.6,Yes,Recyclable
+M152,Women,Size 37,"Synthetic leather, cotton, EVA foam",4.2,Yes,Recyclable
+M153,Kids,Size 29,"Cotton, EVA foam, recycled PET",2.3,Yes,Recyclable
+M154,Old Age,Size 38,"Wool, recycled PET, TPR soles",3.9,Yes,Recyclable
+M155,Men,Size 43,"Full-grain leather, recycled PET, rubber",7,Yes,Recyclable
+M156,Women,Size 38,"Vegan leather, jute, recycled PET",4.3,Yes,Compostable
+M157,Kids,Size 29,"Mesh, EVA foam, recycled rubber",2.5,Yes,Recyclable
+M158,Old Age,Size 37,"Leather, wool, natural rubber",3.8,Yes,Recyclable
+M159,Men,Size 45,"Synthetic leather, EVA foam, cotton",7.4,Partially,Recyclable
+M160,Women,Size 36,"Suede, recycled rubber, cork",4,Yes,Recyclable
+M161,Kids,Size 28,"Canvas, recycled PET, natural rubber",2.2,Yes,Recyclable
+M162,Old Age,Size 38,"Faux leather, EVA foam, rubber",3.6,Yes,Recyclable
+M163,Men,Size 42,"Vegan leather, recycled PET, jute",6.9,Yes,Compostable
+M164,Women,Size 37,"Mesh, recycled PET, TPR soles",4.3,Yes,Recyclable
+M165,Kids,Size 30,"Cotton, EVA foam, recycled leather",2.3,Yes,Recyclable
+M166,Old Age,Size 39,"Leather, wool, natural rubber",3.7,Yes,Recyclable
+M167,Men,Size 44,"Synthetic leather, recycled PET, cork",7.2,Yes,Recyclable
+M168,Women,Size 39,"Vegan leather, jute, cotton",4.1,Yes,Compostable
+M169,Kids,Size 28,"Mesh, EVA foam, recycled rubber",2.4,Yes,Recyclable
+M170,Old Age,Size 37,"Faux suede, EVA foam, recycled PET",3.8,Yes,Recyclable
+M171,Men,Size 42,"Leather, EVA foam, TPR soles",6.8,Yes,Recyclable
+M172,Women,Size 38,"Cotton, recycled PET, EVA foam",4.2,Yes,Recyclable
+M173,Kids,Size 29,"Cotton, EVA foam, rubber",2.2,Yes,Recyclable
+M174,Old Age,Size 38,"Wool, recycled PET, EVA foam",3.7,Yes,Recyclable
+M175,Men,Size 44,"Leather, EVA foam, recycled PET",7.2,Yes,Recyclable
+M176,Women,Size 37,"Suede, recycled PET, EVA foam",4.1,Yes,Recyclable
+M177,Kids,Size 29,"Mesh, EVA foam, recycled rubber",2.5,Yes,Recyclable
+M178,Old Age,Size 38,"Leather, wool, natural rubber",3.7,Yes,Recyclable
+M179,Men,Size 45,"Full-grain leather, EVA foam, recycled PET",7.4,Yes,Recyclable
+M180,Women,Size 36,"Vegan leather, jute, natural rubber",4.3,Yes,Compostable
+M181,Kids,Size 28,"Cotton, recycled PET, rubber soles",2.3,Yes,Recyclable
+M182,Old Age,Size 37,"Faux leather, EVA foam, rubber",3.6,Yes,Recyclable
+M183,Men,Size 43,"Synthetic leather, EVA foam, cotton",6.9,Partially,Recyclable
+M184,Women,Size 38,"Mesh, recycled rubber, cotton",4.2,Yes,Recyclable
+M185,Kids,Size 30,"Canvas, EVA foam, recycled PET",2.4,Yes,Recyclable
+M186,Old Age,Size 39,"Wool, natural rubber, recycled PET",3.8,Yes,Recyclable
+M187,Men,Size 42,"Vegan leather, jute, EVA foam",7,Yes,Compostable
+M188,Women,Size 37,"Cotton, EVA foam, recycled leather",4.3,Yes,Recyclable
+M189,Kids,Size 29,"Mesh, recycled PET, rubber soles",2.2,Yes,Recyclable
+M190,Old Age,Size 38,"Faux suede, recycled PET, EVA foam",3.7,Yes,Recyclable
+M191,Men,Size 45,"Full-grain leather, recycled PET, rubber",7.5,Yes,Recyclable
+M192,Women,Size 36,"Synthetic leather, EVA foam, recycled rubber",4.4,Yes,Recyclable
+M193,Kids,Size 28,"Cotton, EVA foam, recycled PET",2.3,Yes,Recyclable
+M194,Old Age,Size 39,"Wool, recycled PET, EVA foam",3.9,Yes,Recyclable
+M195,Men,Size 44,"Full-grain leather, cotton, EVA foam",7.3,Yes,Recyclable
+M196,Women,Size 38,"Vegan leather, jute, recycled PET",4.2,Yes,Compostable
+M197,Kids,Size 30,"Cotton, recycled PET, natural rubber",2.3,Yes,Recyclable
+M198,Old Age,Size 37,"Leather, memory foam, natural rubber",3.8,Yes,Recyclable
+M199,Men,Size 45,"Synthetic leather, EVA foam, recycled PET",7.4,Partially,Recyclable
+M200,Women,Size 37,"Mesh, recycled PET, natural rubber",4.1,Yes,Recyclable
