@@ -23,7 +23,7 @@ The project aims to predict the carbon footprint (measured in CO2e) of shoes usi
 - Achieved an R-squared score of 0.95 and a Mean Squared Error of 0.159.
 - Visualized the actual vs predicted carbon footprint values.
 
-##Conclusion
+## Conclusion
 
 This project demonstrates the application of machine learning techniques to predict environmental impact metrics, providing insights for sustainable product development.
 I would like to give special thanks to the authors of "Carbon Footprint of Different Kinds of Footwear – a Comparative Study" for providing the foundation for the dataset used in this project.
